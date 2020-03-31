@@ -1,15 +1,16 @@
-.titlebold{
+.titleBold{
     font-style: bold;
+    text-align : center;
 }
-.arial{
+.arialText{
     font-family: arial;
 }
-.red{
+.redText{
     color: red;
 }
-.green{
+.greenText{
     color: green;
 }
-.italic{
+.italicText{
     font-style: italic;
 }
